@@ -1,0 +1,5 @@
+{
+  "name": "Ajio Clone",
+  "description": "A modern e-commerce web application inspired by Ajio, built with React and Tailwind CSS. It features product browsing, a shopping cart, and an admin panel for product management.",
+  "requestFramePermissions": []
+}
